@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674233d2-a551-4b38-a9dd-8a50d273b774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ATMMachine/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Libary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Divisibility/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Divisibility/out/production/Divisibility/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MakeAShape/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/src/com/company/Sandwhich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dogProgram/src/com/company/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ok/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATMMachine/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATMMachine/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Divisibility/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Divisibility/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MakeShape/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MakeShape/src/com/company/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MakeShape/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandwhichMaker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwhichMaker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandwhichMaker/src/com/company/Sandwhich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwhichMaker/src/com/company/Sandwhich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogProgram/src/com/company/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dogProgram/src/com/company/Dog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BookDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
+            <state relative-caret-position="2790">
               <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548720772748" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548720791697" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,16 +170,15 @@
       <workItem from="1548425857493" duration="2802000" />
       <workItem from="1548697288858" duration="128000" />
       <workItem from="1548698236337" duration="158000" />
-      <workItem from="1548698426916" duration="9061000" />
+      <workItem from="1548698426916" duration="9256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37241000" />
+    <option name="totallyTimeSpent" value="37436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.021459227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -200,7 +189,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,7 +231,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/BookDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
+        <state relative-caret-position="2790">
           <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
